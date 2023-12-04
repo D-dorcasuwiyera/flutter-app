@@ -1,0 +1,13 @@
+name: my_flutter_app
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.0.6
+  geolocator: ^7.3.1
+  http: ^0.13.3
+  flutter_bloc: ^7.0.0
+flutter:
+  assets:
+    - assets/images/
+environment:
+  sdk: '^3.2.0'
